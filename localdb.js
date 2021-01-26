@@ -55,79 +55,8 @@ const dic = {
     lexicalCategory: 'Adjective',
     definition: 'with no special or distinctive features; normal',
   },
-  he: {
-    word: 'he',
-    lexicalCategory: 'Pronoun',
-    definition:
-      'used to refer to a man, boy, or male animal previously mentioned or easily identified',
-  },
-  gregarious: {
-    word: 'gregarious',
-    lexicalCategory: 'Adjective',
-    definition: '(of a person) fond of company; sociable.',
-  },
-  floccinaucinihilipilification: {
-    word: 'floccinaucinihilipilification',
-    lexicalCategory: 'Rare Noun',
-    definition: 'the action or habit of estimating something as worthless.',
-  },
-  sacerdotal: {
-    word: 'sacerdotal',
-    lexicalCategory: 'Adjective',
-    definition: 'relating to priests or the priesthood; priestly',
-  },
-  juvenille: {
-    word: 'juvenille',
-    lexicalCategory: 'adjective',
-    definition: 'childish; immature.',
-  },
-  evil: {
-    word: 'evil',
-    lexicalCategory: 'adjective',
-    definition: 'profoundly immoral and wicked.',
-  },
-  history: {
-    word: 'history',
-    lexicalCategory: 'noun',
-    definition: 'the study of past events, particularly in human affairs.',
-  },
-  intrigue: {
-    word: 'intrigue',
-    lexicalCategory: 'verb',
-    definition: 'arouse the curiosity or interest of; fascinate.',
-  },
-  mesmerise: {
-    word: 'mesmerise',
-    lexicalCategory: 'verb',
-    definition: 'capture the complete attention of (someone); transfix.',
-  },
-  procrastinate: {
-    word: 'procrastinate',
-    lexicalCategory: 'verb',
-    definition: 'postpone needlessly',
-  },
-  souvenir: {
-    word: 'souvenir',
-    lexicalCategory: 'noun',
-    definition:
-      'a thing that is kept as a reminder of a person, place, or event.',
-  },
-  impressed: {
-    word: 'impressed',
-    lexicalCategory: 'adjective',
-    definition:
-      'feeling or showing admiration or respect for someone or something; the power to influence a person or situation.',
-  },
-  leverage: {
-    word: 'leverage',
-    lexicalCategory: 'noun',
-    definition: 'use (something) to maximum advantage.',
-  },
-  sad: {
-    word: 'sad',
-    lexicalCategory: 'noun',
-    definition: 'a state of being sad or unhappy; sorrow',
-  },
+  
+
 };
 
-export default dic;
+export default dictionary

@@ -77,8 +77,8 @@ export default class App extends React.Component {
           </TouchableOpacity>
         </View>
         <Text style={styles.displayText12}>
-          WORDS YOU CAN SEARCH FOR: intrigue, mesmerise, procastinate, tree,
-          sacerdotal,india,externally,hello,welcome,almost,she,wonderful,ordinary,he,gregarious, floccinaucinihilipilification
+          WORDS YOU CAN SEARCH FOR: tree,
+       ,india,externally,hello,welcome,almost,she,wonderful,ordinary,he,almost
         </Text>
       </View>
     );
